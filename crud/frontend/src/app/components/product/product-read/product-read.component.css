@@ -1,0 +1,21 @@
+i{
+    padding: 5px;
+}
+
+i.edit{
+    color: rgb(103, 103, 255);
+}
+i.edit:hover{
+    background-color: rgb(103, 103, 255);
+    color: white;
+    border-radius: 10px;
+}
+
+i.delete{
+    color: rgb(139, 29, 29);
+}
+i.delete:hover{
+    background-color: rgb(139, 29, 29);
+    color: white;
+    border-radius: 10px;
+}

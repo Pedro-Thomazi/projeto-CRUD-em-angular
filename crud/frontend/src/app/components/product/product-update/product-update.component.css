@@ -1,0 +1,19 @@
+.body{
+    padding: 15px;
+}
+.title{
+    font-size: 1.5rem;
+    padding-bottom: 10px;
+}
+.buttons{
+    display: flex;
+}
+button{
+    margin-left: 10px;
+    width: 110px;
+    border-radius: 10px;
+}
+form{
+    display: flex;
+    flex-direction: column;
+}
