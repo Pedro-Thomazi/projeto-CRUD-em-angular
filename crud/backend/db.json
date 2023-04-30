@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Notebook Mac Pro",
+      "price": 12716.52
+    },
+    {
+      "id": 3,
+      "name": "Sansung S20+",
+      "price": 5723.99
+    },
+    {
+      "name": "Caneta Azula",
+      "price": "52",
+      "id": 4
+    },
+    {
+      "name": "Arroz",
+      "price": "19.42",
+      "id": 5
+    }
+  ]
+}
